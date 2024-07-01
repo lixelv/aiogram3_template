@@ -1,0 +1,10 @@
+{
+    "ru": {
+        "start": "Привет, я шаблонный бот, больше в /help",
+        "help": "Есть следующие команды: /start, /help, /buttons, также написав боту текст, но вам его отправит"
+    },
+    "en": {
+        "start": "Hi, I am a template bot, more info in /help",
+        "help": "Here are the available commands: /start, /help, /buttons, and if you send a text to the bot, it will reply to you"
+    }
+}
